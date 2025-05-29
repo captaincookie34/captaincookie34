@@ -1,6 +1,6 @@
 ## Hey there, I'm Ansh 👋
 
-### What am I up to ?:
+### What am I up to ?
 - 🔐 I'm currently researching at the [Cryptography, Security and Privacy Lab (CrySP)](https://crysp.uwaterloo.ca/) at my University to make internet models resistant to website fingerprinting attacks. 
 - 🛠️Outside of school, I'm working on rooting different boxes on Hack The Box and spending time on TryHackMe.
 - 🌱 I’m also learning more about Infrastructure as Code tools like Kubernetes and Terraform
