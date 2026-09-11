@@ -10,5 +10,4 @@
 - You can also take a look at my older profile [here](https://github.com/anshdhinhgra47)
 
 ### Connect with me:
-[![mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:a24dhing@uwaterloo.ca)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-dhingra/)
+Shoot me a message on a24dhing [@] uwaterloo [dot] ca
